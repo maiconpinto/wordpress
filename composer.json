@@ -1,0 +1,14 @@
+{
+  "name": "maiconpinto/wordpress",
+  "description": "Composer + Wordpress 5.1.1",
+  "authors": [
+    {
+      "name": "Maicon Pinto",
+      "homepage": "http://maiconpinto.com.br"
+    }
+  ],
+  "keywords": [
+    "wordpress",
+    "composer"
+  ]
+}
